@@ -1,0 +1,194 @@
+{
+  "payload": {
+    "meta": {
+      "Graph": {
+        "@Type": "81297157",
+        "@Value": {
+          "Guid": "(Guid)f1bacd5d-a013-4b6b-a9df-bbd994bcad54",
+          "ParentGuid": "(Guid)8546ac17-e910-4f0b-9647-dab10e2e1f8d",
+          "Name": "(string)TestTable",
+          "Properties": {
+            "@Type": "2c41fa04:IDictionary",
+            "@Value": {}
+          },
+          "TypeGuid": "(Guid)787ae441-8aee-40ab-ba7a-7a216d60ba95",
+          "EmbeddedTypeGuids": {
+            "@Type": "[Guid]",
+            "@Value": []
+          }
+        }
+      },
+      "TypeInfos": {
+        "2c41fa04": "{2c41fa04-1834-41c1-816e-303c7aa2c05b}",
+        "81297157": "{81297157-7ec9-45ce-845e-84cab2b88ade}",
+        "Guid": "System.Guid",
+        "string": "System.String"
+      }
+    },
+    "object": {
+      "Graph": {
+        "@Type": "787ae441",
+        "@Value": {
+          "UniqueIdGenerator": "(string)12",
+          "VariableTypeMapping": {
+            "@Type": "0973296c",
+            "@Value": {
+              "CheckedListElements": {
+                "@Type": "[]",
+                "@Value": []
+              },
+              "Position": "(long)2"
+            }
+          },
+          "Initialization": null,
+          "Forces": {
+            "@Type": "d06345c6",
+            "@Value": {
+              "CheckedListElements": {
+                "@Type": "[]",
+                "@Value": []
+              },
+              "Position": "(long)3"
+            }
+          },
+          "Invariants": {
+            "@Type": "80d207ef",
+            "@Value": {
+              "CheckedListElements": {
+                "@Type": "[]",
+                "@Value": []
+              },
+              "Position": "(long)4",
+              "FailureMode": null
+            }
+          },
+          "CheckedListElements": {
+            "@Type": "[]",
+            "@Value": [
+              {
+                "@Type": "26556151",
+                "@Value": {
+                  "Teststeps": {
+                    "@Type": "2659ccd3",
+                    "@Value": {
+                      "CheckedListElements": {
+                        "@Type": "[]",
+                        "@Value": [
+                          {
+                            "@Type": "48c9e02b",
+                            "@Value": {
+                              "Duration": null,
+                              "Inputs": {
+                                "@Type": "d06345c6",
+                                "@Value": {
+                                  "CheckedListElements": {
+                                    "@Type": "[]",
+                                    "@Value": []
+                                  },
+                                  "Position": "(long)11"
+                                }
+                              },
+                              "Conditions": {
+                                "@Type": "80d207ef",
+                                "@Value": {
+                                  "CheckedListElements": {
+                                    "@Type": "[]",
+                                    "@Value": []
+                                  },
+                                  "Position": "(long)12",
+                                  "FailureMode": null
+                                }
+                              },
+                              "Position": "(long)10",
+                              "Name": "(string)TestCase",
+                              "Comment": null,
+                              "CallTestee": "(bool)True"
+                            }
+                          }
+                        ]
+                      },
+                      "Position": "(long)9"
+                    }
+                  },
+                  "Initialization": {
+                    "@Type": "d06345c6",
+                    "@Value": {
+                      "CheckedListElements": {
+                        "@Type": "[]",
+                        "@Value": []
+                      },
+                      "Position": "(long)6"
+                    }
+                  },
+                  "Forces": {
+                    "@Type": "d06345c6",
+                    "@Value": {
+                      "CheckedListElements": {
+                        "@Type": "[]",
+                        "@Value": []
+                      },
+                      "Position": "(long)7"
+                    }
+                  },
+                  "Invariants": {
+                    "@Type": "80d207ef",
+                    "@Value": {
+                      "CheckedListElements": {
+                        "@Type": "[]",
+                        "@Value": []
+                      },
+                      "Position": "(long)8",
+                      "FailureMode": null
+                    }
+                  },
+                  "Position": "(long)5",
+                  "TestCaseType": {
+                    "@Type": "1bf1ea30:Enum",
+                    "@Value": "Reinit"
+                  },
+                  "Timeout": null,
+                  "Name": "(string)MyTestCase",
+                  "Comment": null,
+                  "Categories": {
+                    "@Type": "[]",
+                    "@Value": []
+                  }
+                }
+              }
+            ]
+          },
+          "Position": "(long)1",
+          "LanguageModelGuids": {
+            "@Type": "1f486089:IDictionary",
+            "@Value": {}
+          },
+          "Testee": "(string)",
+          "Timeout": "(string)",
+          "TestCaseTimeout": "(string)",
+          "FailureMode": null,
+          "Name": "(string)TestTable",
+          "Description": "(string)",
+          "Categories": {
+            "@Type": "[]",
+            "@Value": []
+          }
+        }
+      },
+      "TypeInfos": {
+        "0973296c": "{0973296c-ad7d-4559-b0ca-d04552f62623}",
+        "1bf1ea30": "{1bf1ea30-941e-4803-9efc-56bc13669ed7}",
+        "1f486089": "{1f486089-d6f3-4661-a4a5-4710a503b648}",
+        "26556151": "{26556151-b684-448a-93ac-f4e5261e0180}",
+        "2659ccd3": "{2659ccd3-7037-4247-9371-9ae7aec7a416}",
+        "48c9e02b": "{48c9e02b-766f-4061-9bf7-c286efdc0a1c}",
+        "787ae441": "{787ae441-8aee-40ab-ba7a-7a216d60ba95}",
+        "80d207ef": "{80d207ef-a334-4188-9dd8-a044178210c7}",
+        "bool": "System.Boolean",
+        "d06345c6": "{d06345c6-fd7e-44b0-9019-3788ab5544f6}",
+        "long": "System.Int64",
+        "string": "System.String"
+      }
+    }
+  },
+  "FormatVersion": "1.0"
+}
