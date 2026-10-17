@@ -37,6 +37,12 @@
       "dependsOn": []
     },
     {
+      "label": "install pre-commit hook",
+      "type": "shell",
+      "command": "git config core.hooksPath scripts",
+      "problemMatcher": []
+    },
+    {
       "label": "update_version",
       "type": "shell",
       "command": "python scripts/update_version.py",
