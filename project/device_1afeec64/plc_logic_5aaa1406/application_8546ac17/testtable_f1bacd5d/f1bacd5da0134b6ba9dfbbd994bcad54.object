@@ -29,7 +29,7 @@
       "Graph": {
         "@Type": "787ae441",
         "@Value": {
-          "UniqueIdGenerator": "(string)12",
+          "UniqueIdGenerator": "(string)13",
           "VariableTypeMapping": {
             "@Type": "0973296c",
             "@Value": {
@@ -40,7 +40,16 @@
               "Position": "(long)2"
             }
           },
-          "Initialization": null,
+          "Initialization": {
+            "@Type": "d06345c6",
+            "@Value": {
+              "CheckedListElements": {
+                "@Type": "[]",
+                "@Value": []
+              },
+              "Position": "(long)13"
+            }
+          },
           "Forces": {
             "@Type": "d06345c6",
             "@Value": {

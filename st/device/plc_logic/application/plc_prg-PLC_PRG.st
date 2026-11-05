@@ -1,5 +1,5 @@
 (* --- Interface --- *)
 PROGRAM PLC_PRG
 VAR
-	fbTestCase: TestCase_1;
+	fbTestCase: TestCase_ISIGNBIT;
 END_VAR
