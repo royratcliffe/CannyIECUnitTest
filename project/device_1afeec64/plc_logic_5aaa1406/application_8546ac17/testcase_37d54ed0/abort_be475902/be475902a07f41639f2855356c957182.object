@@ -38,7 +38,7 @@
               "TextDocument": {
                 "@Type": "f3878285",
                 "@Value": {
-                  "TextBlobForSerialisation": "(string)Abort := TRUE;",
+                  "TextBlobForSerialisation": "(string)Abort := TRUE;\n",
                   "LineInfoPersistence": "(string)be475902-a07f-4163-9f28-55356c957182_Impl_LineIds"
                 }
               }

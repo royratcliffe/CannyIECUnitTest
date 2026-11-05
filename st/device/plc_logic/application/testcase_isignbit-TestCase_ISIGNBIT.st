@@ -9,5 +9,6 @@ VAR_OUTPUT
 END_VAR
 VAR
 END_VAR
+
 (* --- Implementation --- *)
 SUPER^();
