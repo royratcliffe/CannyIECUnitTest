@@ -42,7 +42,7 @@
               "TextDocument": {
                 "@Type": "f3878285",
                 "@Value": {
-                  "TextBlobForSerialisation": "(string)SUPER^();",
+                  "TextBlobForSerialisation": "(string)SUPER^();\n",
                   "LineInfoPersistence": "(string)37d54ed0-e370-4511-a9dd-9d4a2a772013_Impl_LineIds"
                 }
               }
@@ -54,13 +54,13 @@
               "TextDocument": {
                 "@Type": "f3878285",
                 "@Value": {
-                  "TextBlobForSerialisation": "(string){attribute 'test'}\n{attribute 'testcasename':='ArrayOfLag'}\n{attribute 'testcasetimeout':='15000'}\nFUNCTION_BLOCK TestCase EXTENDS TM.Testcase\nVAR_INPUT\nEND_VAR\nVAR_OUTPUT\nEND_VAR\nVAR\nEND_VAR",
+                  "TextBlobForSerialisation": "(string){attribute 'test'}\n{attribute 'testcasename':='ArrayOfLag'}\n{attribute 'testcasetimeout':='15000'}\nFUNCTION_BLOCK TestCase EXTENDS TM.Testcase\nVAR_INPUT\nEND_VAR\nVAR_OUTPUT\nEND_VAR\nVAR\nEND_VAR\n",
                   "LineInfoPersistence": "(string)37d54ed0-e370-4511-a9dd-9d4a2a772013_Decl_LineIds"
                 }
               }
             }
           },
-          "UniqueIdGenerator": "(string)65",
+          "UniqueIdGenerator": "(string)77",
           "POULevel": {
             "@Type": "8e575c5b:Enum",
             "@Value": "Extended"
