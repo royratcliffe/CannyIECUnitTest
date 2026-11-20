@@ -38,7 +38,7 @@
               "TextDocument": {
                 "@Type": "f3878285",
                 "@Value": {
-                  "TextBlobForSerialisation": "(string)head := consHeap.get();\nxAssert := TM.Assert_USint_Equal(THIS^, 1, head, \"\");\nExecute := TRUE;\n",
+                  "TextBlobForSerialisation": "(string)head    := consHeap.collect();\nxAssert := TM.Assert_USint_Equal(THIS^, 1, head, \"\");\nExecute := TRUE;\n",
                   "LineInfoPersistence": "(string)69a20849-a5f0-4f3b-96bf-3fec40dd33ff_Impl_LineIds"
                 }
               }
@@ -50,7 +50,7 @@
               "TextDocument": {
                 "@Type": "f3878285",
                 "@Value": {
-                  "TextBlobForSerialisation": "(string)METHOD PROTECTED Execute : BOOL\nVAR_OUTPUT\n\tiErrorCode : INT;\nEND_VAR\nVAR\n\txAssert : BOOL;\n\tconsHeap: CANNY.ConsHeap;\n\thead: CANNY.CONS_REG;\nEND_VAR\n",
+                  "TextBlobForSerialisation": "(string)METHOD PROTECTED Execute : BOOL\nVAR_OUTPUT\n\tiErrorCode : INT;\nEND_VAR\nVAR\n\txAssert  : BOOL;\n\tconsHeap : CANNY.ConsHeap;\n\thead     : CANNY.CONS_REG;\nEND_VAR\n",
                   "LineInfoPersistence": "(string)69a20849-a5f0-4f3b-96bf-3fec40dd33ff_Decl_LineIds"
                 }
               }
