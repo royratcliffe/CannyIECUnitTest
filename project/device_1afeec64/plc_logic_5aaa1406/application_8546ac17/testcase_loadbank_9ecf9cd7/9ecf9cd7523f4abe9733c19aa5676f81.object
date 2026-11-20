@@ -54,7 +54,7 @@
               "TextDocument": {
                 "@Type": "f3878285",
                 "@Value": {
-                  "TextBlobForSerialisation": "(string){attribute 'test'}\n{attribute 'testcasename':='ArrayOfLag'}\n{attribute 'testcasetimeout':='15000'}\nFUNCTION_BLOCK TestCase_LoadBank EXTENDS Testcase\nVAR_INPUT\nEND_VAR\nVAR_OUTPUT\nEND_VAR\nVAR\nEND_VAR\n",
+                  "TextBlobForSerialisation": "(string){attribute 'test'}\n{attribute 'testcasename':='LoadBank'}\n{attribute 'testcasetimeout':='15000'}\nFUNCTION_BLOCK TestCase_LoadBank EXTENDS Testcase\nVAR_INPUT\nEND_VAR\nVAR_OUTPUT\nEND_VAR\nVAR\nEND_VAR\n",
                   "LineInfoPersistence": "(string)9ecf9cd7-523f-4abe-9733-c19aa5676f81_Decl_LineIds"
                 }
               }

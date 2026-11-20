@@ -1,6 +1,6 @@
 (* --- Interface --- *)
 {attribute 'test'}
-{attribute 'testcasename':='ArrayOfLag'}
+{attribute 'testcasename':='ConsHeap'}
 {attribute 'testcasetimeout':='15000'}
 FUNCTION_BLOCK TestCase_ConsHeap EXTENDS Testcase
 VAR_INPUT

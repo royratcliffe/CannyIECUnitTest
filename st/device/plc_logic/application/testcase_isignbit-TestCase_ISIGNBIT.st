@@ -1,6 +1,6 @@
 (* --- Interface --- *)
 {attribute 'test'}
-{attribute 'testcasename':='ArrayOfLag'}
+{attribute 'testcasename':='ISIGNBIT'}
 {attribute 'testcasetimeout':='15000'}
 FUNCTION_BLOCK TestCase_ISIGNBIT EXTENDS Testcase
 VAR_INPUT

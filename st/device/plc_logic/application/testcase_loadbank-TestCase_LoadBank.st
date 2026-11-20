@@ -1,6 +1,6 @@
 (* --- Interface --- *)
 {attribute 'test'}
-{attribute 'testcasename':='ArrayOfLag'}
+{attribute 'testcasename':='LoadBank'}
 {attribute 'testcasetimeout':='15000'}
 FUNCTION_BLOCK TestCase_LoadBank EXTENDS Testcase
 VAR_INPUT
