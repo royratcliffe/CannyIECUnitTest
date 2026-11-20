@@ -645,6 +645,307 @@
                       },
                       "Id": "(long)5"
                     }
+                  },
+                  {
+                    "@Type": "d9a99d73",
+                    "@Value": {
+                      "ILActive": "(bool)False",
+                      "FBDValid": "(bool)False",
+                      "ILValid": "(bool)False",
+                      "ILLines": {
+                        "@Type": "[]",
+                        "@Value": []
+                      },
+                      "Comment": "(string)",
+                      "Title": "(string)",
+                      "Label": "(string)",
+                      "OutCommented": "(bool)False",
+                      "NetworkItems": {
+                        "@Type": "[]",
+                        "@Value": [
+                          {
+                            "@Type": "acfc6f68",
+                            "@Value": {
+                              "BoxType": "(string)TestCase_LoadBank",
+                              "Instance": {
+                                "@Type": "c9b2f165",
+                                "@Value": {
+                                  "Operand": "(string)fbTestCase_LoadBank",
+                                  "Type": "(string)TestCase_LoadBank",
+                                  "Comment": "(string)",
+                                  "SymbolComment": "(string)",
+                                  "Address": "(string)",
+                                  "Flags": {
+                                    "@Type": "668066f2",
+                                    "@Value": {
+                                      "Flags": "(int)0",
+                                      "Fixed": "(bool)False",
+                                      "Extensible": "(bool)False"
+                                    }
+                                  },
+                                  "LValue": "(bool)False",
+                                  "Boolean": "(bool)False",
+                                  "IsInstance": "(bool)True",
+                                  "Id": "(long)98"
+                                }
+                              },
+                              "OutputItems": {
+                                "@Type": "f40d3e09",
+                                "@Value": {
+                                  "OutputItems": {
+                                    "@Type": "[]",
+                                    "@Value": [
+                                      null,
+                                      {
+                                        "@Type": "c9b2f165",
+                                        "@Value": {
+                                          "Operand": "(string)",
+                                          "Type": null,
+                                          "Comment": "(string)",
+                                          "SymbolComment": "(string)",
+                                          "Address": "(string)",
+                                          "Flags": {
+                                            "@Type": "668066f2",
+                                            "@Value": {
+                                              "Flags": "(int)0",
+                                              "Fixed": "(bool)False",
+                                              "Extensible": "(bool)False"
+                                            }
+                                          },
+                                          "LValue": "(bool)True",
+                                          "Boolean": "(bool)False",
+                                          "IsInstance": "(bool)False",
+                                          "Id": "(long)100"
+                                        }
+                                      },
+                                      {
+                                        "@Type": "c9b2f165",
+                                        "@Value": {
+                                          "Operand": "(string)",
+                                          "Type": null,
+                                          "Comment": "(string)",
+                                          "SymbolComment": "(string)",
+                                          "Address": "(string)",
+                                          "Flags": {
+                                            "@Type": "668066f2",
+                                            "@Value": {
+                                              "Flags": "(int)0",
+                                              "Fixed": "(bool)False",
+                                              "Extensible": "(bool)False"
+                                            }
+                                          },
+                                          "LValue": "(bool)True",
+                                          "Boolean": "(bool)False",
+                                          "IsInstance": "(bool)False",
+                                          "Id": "(long)101"
+                                        }
+                                      },
+                                      {
+                                        "@Type": "c9b2f165",
+                                        "@Value": {
+                                          "Operand": "(string)",
+                                          "Type": null,
+                                          "Comment": "(string)",
+                                          "SymbolComment": "(string)",
+                                          "Address": "(string)",
+                                          "Flags": {
+                                            "@Type": "668066f2",
+                                            "@Value": {
+                                              "Flags": "(int)0",
+                                              "Fixed": "(bool)False",
+                                              "Extensible": "(bool)False"
+                                            }
+                                          },
+                                          "LValue": "(bool)True",
+                                          "Boolean": "(bool)False",
+                                          "IsInstance": "(bool)False",
+                                          "Id": "(long)102"
+                                        }
+                                      },
+                                      {
+                                        "@Type": "c9b2f165",
+                                        "@Value": {
+                                          "Operand": "(string)",
+                                          "Type": null,
+                                          "Comment": "(string)",
+                                          "SymbolComment": "(string)",
+                                          "Address": "(string)",
+                                          "Flags": {
+                                            "@Type": "668066f2",
+                                            "@Value": {
+                                              "Flags": "(int)0",
+                                              "Fixed": "(bool)False",
+                                              "Extensible": "(bool)False"
+                                            }
+                                          },
+                                          "LValue": "(bool)True",
+                                          "Boolean": "(bool)False",
+                                          "IsInstance": "(bool)False",
+                                          "Id": "(long)103"
+                                        }
+                                      },
+                                      {
+                                        "@Type": "c9b2f165",
+                                        "@Value": {
+                                          "Operand": "(string)",
+                                          "Type": null,
+                                          "Comment": "(string)",
+                                          "SymbolComment": "(string)",
+                                          "Address": "(string)",
+                                          "Flags": {
+                                            "@Type": "668066f2",
+                                            "@Value": {
+                                              "Flags": "(int)0",
+                                              "Fixed": "(bool)False",
+                                              "Extensible": "(bool)False"
+                                            }
+                                          },
+                                          "LValue": "(bool)True",
+                                          "Boolean": "(bool)False",
+                                          "IsInstance": "(bool)False",
+                                          "Id": "(long)104"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "Flags": {
+                                "@Type": "668066f2",
+                                "@Value": {
+                                  "Flags": "(int)0",
+                                  "Fixed": "(bool)False",
+                                  "Extensible": "(bool)False"
+                                }
+                              },
+                              "InputFlags": null,
+                              "InputItems": {
+                                "@Type": "[]",
+                                "@Value": [
+                                  {
+                                    "@Type": "9de7f100",
+                                    "@Value": {
+                                      "Operand": {
+                                        "@Type": "c9b2f165",
+                                        "@Value": {
+                                          "Operand": "(string)TRUE",
+                                          "Type": "(string)BOOL",
+                                          "Comment": "(string)",
+                                          "SymbolComment": "(string)",
+                                          "Address": "(string)",
+                                          "Flags": {
+                                            "@Type": "668066f2",
+                                            "@Value": {
+                                              "Flags": "(int)0",
+                                              "Fixed": "(bool)False",
+                                              "Extensible": "(bool)False"
+                                            }
+                                          },
+                                          "LValue": "(bool)False",
+                                          "Boolean": "(bool)False",
+                                          "IsInstance": "(bool)False",
+                                          "Id": "(long)106"
+                                        }
+                                      },
+                                      "Id": "(long)105"
+                                    }
+                                  },
+                                  {
+                                    "@Type": "9de7f100",
+                                    "@Value": {
+                                      "Operand": {
+                                        "@Type": "c9b2f165",
+                                        "@Value": {
+                                          "Operand": "(string)",
+                                          "Type": null,
+                                          "Comment": "(string)",
+                                          "SymbolComment": "(string)",
+                                          "Address": "(string)",
+                                          "Flags": {
+                                            "@Type": "668066f2",
+                                            "@Value": {
+                                              "Flags": "(int)0",
+                                              "Fixed": "(bool)False",
+                                              "Extensible": "(bool)False"
+                                            }
+                                          },
+                                          "LValue": "(bool)False",
+                                          "Boolean": "(bool)False",
+                                          "IsInstance": "(bool)False",
+                                          "Id": "(long)108"
+                                        }
+                                      },
+                                      "Id": "(long)107"
+                                    }
+                                  }
+                                ]
+                              },
+                              "InputParam": {
+                                "@Type": "71496971",
+                                "@Value": {
+                                  "Names": {
+                                    "@Type": "[]",
+                                    "@Value": [
+                                      "(string)xExecute",
+                                      "(string)xAbort"
+                                    ]
+                                  },
+                                  "Types": {
+                                    "@Type": "[]",
+                                    "@Value": [
+                                      "(string)BOOL",
+                                      "(string)BOOL"
+                                    ]
+                                  }
+                                }
+                              },
+                              "OutputParam": {
+                                "@Type": "71496971",
+                                "@Value": {
+                                  "Names": {
+                                    "@Type": "[]",
+                                    "@Value": [
+                                      "(string)xDone",
+                                      "(string)xBusy",
+                                      "(string)xError",
+                                      "(string)xAborted",
+                                      "(string)xFinished",
+                                      "(string)sInfo"
+                                    ]
+                                  },
+                                  "Types": {
+                                    "@Type": "[]",
+                                    "@Value": [
+                                      "(string)BOOL",
+                                      "(string)BOOL",
+                                      "(string)BOOL",
+                                      "(string)BOOL",
+                                      "(string)BOOL",
+                                      "(string)WSTRING(Constants.WSTRING_LENGTH)"
+                                    ]
+                                  }
+                                }
+                              },
+                              "CallType": {
+                                "@Type": "bffb3c53:Enum",
+                                "@Value": "FunctionBlock"
+                              },
+                              "EN": "(bool)False",
+                              "ENO": "(bool)False",
+                              "STSnippet": null,
+                              "ContainsExtensibleInputs": "(bool)False",
+                              "ProvidesSTSnippet": "(bool)False",
+                              "Id": "(long)99"
+                            }
+                          }
+                        ]
+                      },
+                      "Connectors": {
+                        "@Type": "[]",
+                        "@Value": []
+                      },
+                      "Id": "(long)82"
+                    }
                   }
                 ]
               },
@@ -658,13 +959,13 @@
               "TextDocument": {
                 "@Type": "f3878285",
                 "@Value": {
-                  "TextBlobForSerialisation": "(string)PROGRAM PLC_PRG\nVAR\n\tfbTestCase_ISIGNBIT : TestCase_ISIGNBIT;\n\tfbTestCase_ConsHeap: TestCase_ConsHeap;\nEND_VAR\n",
+                  "TextBlobForSerialisation": "(string)PROGRAM PLC_PRG\nVAR\n\tfbTestCase_ISIGNBIT : TestCase_ISIGNBIT;\n\tfbTestCase_ConsHeap : TestCase_ConsHeap;\n\tfbTestCase_LoadBank : TestCase_LoadBank;\nEND_VAR\n",
                   "LineInfoPersistence": "(string)c390e2e4-2fa1-4e41-9a10-30bfde0700db_Decl_LineIds"
                 }
               }
             }
           },
-          "UniqueIdGenerator": "(string)80",
+          "UniqueIdGenerator": "(string)120",
           "POULevel": {
             "@Type": "8e575c5b:Enum",
             "@Value": "Standard"
